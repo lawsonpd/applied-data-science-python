@@ -1,0 +1,15 @@
+.DS_Store
+*.ipynb*
+Course1Datasets/
+Course2Datasets/
+Assignment+4.py
+Assignment2-1.py
+Assignment2.py
+Pipfile.lock
+Assignment+*
+Instacart*
+applied_DS_python.sublime-project
+applied_DS_python.sublime-workspace
+
+# Temp solution to dealing with 93MB 'train.csv' in Course 3.
+*.csv
