@@ -1,6 +1,6 @@
 # Applied Data Science with Python
 
-Projects from the Applied Data Science with Python specialization from University of Michigan (via Coursera).
+Projects from the [Applied Data Science with Python specialization](https://www.coursera.org/specializations/data-science-python) on Coursera (by University of Michigan).
 
 ## About specialization
 
