@@ -12,7 +12,7 @@ discussed mainly supervised learning models, and we used Scikit Learn to build m
 were based on NLTK (natural language toolkit) and NetworkX, respectively, which are two more excellent Python libraries for analyzing 
 large text corpa and graphs.
 
-Since the course was about *applied* data science, we didn't go too far into the theory supporting the techniques we learned. We did, on the other hand, learn a lot about the challenges that show up when using machine learning models in practice. Data leakage, for example, may not be of great theoretical interest to a mathematician, but for the data scientist making predictions in a corporate setting, data leakage deserves major consideration.
+We learned a lot about the challenges that show up when using machine learning models in practice. Data leakage, for example, may not be of great theoretical interest to a mathematician, but for the data scientist making predictions in a corporate setting, data leakage deserves major consideration.
 
 ## Project info
 
